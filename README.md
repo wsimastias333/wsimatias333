@@ -66,3 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wsimatias333&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00FFC8&text_color=A9B7C6&icon_color=1AC0C6" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsimatias333&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFC8&text_color=A9B7C6&icon_color=1AC0C6" alt="Top Languages">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+</picture>
